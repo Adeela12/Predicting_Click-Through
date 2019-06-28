@@ -22,3 +22,10 @@ At the core of hotel personalization and ranking is the challenge of matching a 
  keras<br>
  tensorflow<br>
  
+# References
+- Deep Learning with Python 1st Edition by Francois Chollet
+- Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition by Andreas C. Müller (Author), Sarah Guido
+- https://github.com/CristiVlad25/ml-sklearn
+- https://towardsdatascience.com/machine-learning-model-for-predicting-click-through-in-hotel-online-ranking-d55fc18c8516
+- https://towardsdatascience.com/precision-vs-recall-386cf9f89488
+- https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
